@@ -8,7 +8,7 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 
 Link to unlisted YouTube video:
 
-Public link to the slide (Anyone on the internet can view without login):
+Public link to the slide (Anyone on the internet can view without login): https://docs.google.com/presentation/d/1hQP3MxCP8FII3NR0grGawyOJyyTcbF1AvksIKa5PBsc/edit?usp=sharing
 Project title: EmoSense: Exploring Textual Emotions using Multi-Model Analysis with K-fold Cross Validation and Feature Engineering.
 
 Group Number: 23
